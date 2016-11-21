@@ -1,0 +1,73 @@
+{
+    "aliquot": 2, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "", 
+    "commit": "661a6cf5cee08031cf2abbe643a389433944e782", 
+    "conditionals": null, 
+    "detectors": {
+        "AX": {
+            "deflection": 190.0, 
+            "gain": 0
+        }, 
+        "CDD": {
+            "deflection": 50.0, 
+            "gain": 0
+        }, 
+        "H1": {
+            "deflection": 0.0, 
+            "gain": 0
+        }, 
+        "H2": {
+            "deflection": 0.0, 
+            "gain": 0
+        }, 
+        "L1": {
+            "deflection": 400.0, 
+            "gain": 0
+        }, 
+        "L2": {
+            "deflection": 825.0, 
+            "gain": 0
+        }
+    }, 
+    "extraction": "jan_co2.py", 
+    "identifier": "65174", 
+    "increment": null, 
+    "intensity_scalar": 0.0, 
+    "irradiation": "NM-285", 
+    "irradiation_level": "A", 
+    "irradiation_position": 3, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "CDD"
+        }, 
+        "Ar37": {
+            "detector": "L2"
+        }, 
+        "Ar38": {
+            "detector": "L1"
+        }, 
+        "Ar39": {
+            "detector": "AX"
+        }, 
+        "Ar40": {
+            "detector": "H1"
+        }, 
+        "Ar41": {
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "Jan", 
+    "material": "Sanidine", 
+    "measurement": "jan_unknown400_120.py", 
+    "project": "LipmanDulceDikes", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "PowerZPattern", 
+    "sample": "15L-34", 
+    "spec_sha": "ad8224ebc6dbfeb9f5997218dfa5fe690569839d", 
+    "timestamp": "2016-11-21T16:11:09.499459", 
+    "tripped_conditional": null, 
+    "username": "JRoss", 
+    "uuid": "ec0cfd82-6ad5-4edf-bb42-a917f0da508e"
+}
